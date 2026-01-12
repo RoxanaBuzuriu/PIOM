@@ -3,10 +3,12 @@
 :root {
   --font-display: 'Sora', 'IBM Plex Sans', sans-serif;
   --font-body: 'IBM Plex Sans', 'Sora', sans-serif;
-  --bg: #f6f2ea;
-  --surface: #ffffff;
-  --surface-strong: #f0eae0;
-  --surface-soft: #f9f6f0;
+  --bg: #eaf3ff;
+  --surface: #fff8dd;
+  --surface-strong: #f6edc9;
+  --surface-soft: #fffdf3;
+  --surface-highlight: #5c84d6;
+  --surface-highlight-strong: #4a72c1;
   --text: #1f1a16;
   --muted: #6c655b;
   --muted-strong: #8c8476;
@@ -36,7 +38,7 @@ body {
 body {
   font-family: var(--font-body);
   color: var(--text);
-  background: radial-gradient(circle at top, #f8f4ee 0%, #f1e8db 55%, #efe3d2 100%);
+  background: radial-gradient(circle at top, #f7fbff 0%, #eaf3ff 55%, #dfeaff 100%);
   line-height: 1.6;
   -webkit-font-smoothing: antialiased;
 }

@@ -121,7 +121,7 @@ export default function ProposalForm({
           <p className="eyebrow">Scenario 1</p>
           <h2>Propose a New Thesis Topic</h2>
           <p className="scenario__subtitle">
-            A guided, top-down flow built from atomic form blocks and reusable topic cards.
+            Here, a new topic can be proposed.
           </p>
         </div>
         <div className="scenario__actions">
