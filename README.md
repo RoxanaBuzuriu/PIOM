@@ -23,7 +23,7 @@ A **React + Vite** front-end prototype (no backend) for a “MyThesis Platform�
 > The project is organized around three user flows. The exact screens may evolve, but the intent remains consistent. 
 
 ### Scenario 1 — Propose a New Thesis Topic
-A guided flow that takes a topic from **Draft → Review → Publish**.
+A guided flow that takes a topic from **Draft -> Review -> Publish**.
 
 ### Scenario 2 — Review Supervision Requests
 A coordinator/teacher reviews student requests and can:
