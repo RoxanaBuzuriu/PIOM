@@ -1,5 +1,4 @@
 # PIOM — MyThesis Platform (UI Prototype)
-Final Project MyThesis Platform
 A React prototype for the MyThesis Platform with three end-to-end scenarios, atomic components, and a responsive layout.
 ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
