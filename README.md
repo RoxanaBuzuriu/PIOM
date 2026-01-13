@@ -73,7 +73,7 @@ A consolidated view for supervised theses:
 ## Getting Started
 
 ### Prerequisites
-- Node.js (LTS recommended)
+- Node.js
 - npm
 
 ### Install & Run
