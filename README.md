@@ -80,10 +80,11 @@ A consolidated view for supervised theses:
 
 - npm install
 - npm run dev
+  
 Then open the local URL printed in the terminal (typically `http://localhost:5173`).
 
 ---
 
 ## Notes (scurta descriere)
 
-PIOM este un prototip UI în React pentru o platformă de gestionare a temelor de licență/disertație (MyThesis). Proiectul este organizat pe trei scenarii end-to-end și folosește Atomic Design: atoms (componente de bază), molecules (carduri/stepper/progress), și organisms (secțiuni mari: sidebar/topbar/panouri). Datele sunt mock pentru a demonstra fluxurile fără backend, iar modelele din `src/models` păstrează formele de date coerente pentru o integrare ușoară cu un API ulterior.
+MyThesis Platform este un prototip UI în React pentru o platformă de gestionare a temelor de licență/disertație. Proiectul este organizat pe trei scenarii end-to-end și folosește Atomic Design: atoms (componente de bază), molecules (carduri/progress), și organisms (secțiuni mari: sidebar/topbar). Datele sunt mock pentru a demonstra fluxurile fără backend, iar modelele din `src/models` păstrează formele de date coerente pentru o integrare ușoară cu un API ulterior.
