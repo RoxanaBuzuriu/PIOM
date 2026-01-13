@@ -10,11 +10,11 @@ A **React + Vite** front-end prototype (no backend) for a “MyThesis Platform�
 
 - **Scenario-driven UI** (3 end-to-end flows) surfaced via a scenario switcher (tabs) and dashboard navigation.
 - **Atomic Design** folder structure:
-  - `atoms/` — reusable primitives (buttons, icons, badges, avatars, toast)
-  - `molecules/` — small compositions (cards, stepper, progress UI)
-  - `organisms/` — feature sections (sidebar, topbar, panels, tables, forms)
-- **Design tokens via CSS variables** (consistent colors/surfaces across the UI).
-- **Mock data + domain models** to keep shapes consistent and make later API integration easier.
+  - `atoms/` — reusable primitives (buttons, icons, badges, avatars)
+  - `molecules/` — small compositions (cards, progress UI)
+  - `organisms/` — feature sections (sidebar, topbar, panels, forms)
+- **Design tokens via CSS variables** (consistent colors across the UI).
+- **Mock data** to keep shapes consistent and make later API integration easier.
 
 ---
 
